@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everyone 👋</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWx2bXN3bXR5dmxmNGdhOWZkZ3Y0ZjFoZ2pmcHRmbWwzMmN6c3MwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rhZr8u3cvxe0ksf1ej/giphy.gif" alt="Coder GIF" width="500" height="400">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRjbWo4N2ZzcDh0MHFhZ28xemF4eDkxY2NvcmVpd3R1cjhpeTRpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Coder GIF" >
 </p>
 
 ## 📌 GitHub Stats And Top Languages
